@@ -44,12 +44,18 @@ draft: false
 This is the header information that Hugo uses to see if your page is a draft, what time the page/post was created and the title of your new page. There are other *optional* things you can add, and those are listed below.
 
 #### Page Header Options
+These are the page header options you can add.
 `toc: true` - This adds a table of contents to the side of the page.
+`featured_image: '/images/about.jpg'` - Adds a picture to the header of the page.
+`omit_header_text: true` - Removes header text from the top of the page.
+`description: Thank you..` - The header text that gets added to the top of the page.
+`type: page
+menu: main` - This one marks the post as its own page and adds it to the index page. You most likely won't be using it but its here for documentation purposes.
+`PublishDate: false` - Removes the post publish date from the page.
 
-#### Special Attributes
+#### Post Special Attributes
 
-```<!--more-->```
-
+`<!--more-->` - When you create a new post, the links to the post automatically get generated, along with a blurb of the post. The problem is, the page doesn't know when the blurb ends so if you were to write a LONG paragraph, then the preview for the post will grow in size. This trims the preview and ends it a where you put this tag. For example, if you look at the link for the history of CCDC located under the about section, you'll see that the blurb starts at "A group of educators...." and ends with "...level students." This more tag was placed right after students to prevent this preview/link from growing in size.
 
 ## Markdown Primer
 New to Markdown? No problem!
