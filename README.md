@@ -24,23 +24,93 @@ The awesome part of using Hugo to make websites is that it uses Markdown. Hugo t
 
 ### Important Files & Folder Locations
 * The `/content` directory is where the markdown lives. Here is where you make website changes.
-* The `/public` directory is where the compiled/finished website is. Literally the finished HTML/CSS/JAVASCRIPT code. You don't touch/edit anything in here.
+* The `/public` directory is where the compiled/finished website is. Literally the finished HTML/CSS/JAVASCRIPT code. You don't touch/edit anything in ``---
+title: "Competition Format"
+date: 2020-01-25T13:44:41-08:00
+draft: false
+toc: true
+--- ``here.
 * The `/static` directory is where your images, documents (pdfs, word docs, etc..), and custom CSS files live under. You don't reference the folder itself, only everything underneath. For example, if your adding a picture to the blog, then you would code it in your markdown like so: `![Some Cool Picture](/images/cool-picture.png)`. Same goes if you're adding a PDF file: `[Important Doc](/docs/important-pdf-file.pdf)`
-* What if I want to edit the HTML itself? Well. Take the twitter feed for example. Hugo compiles everything from the content directory and spits it out to the public directory. If you wanted to change the actual code for the index page, like adding the Twitter Feed, then you would go into the `/themes/` directory, then for the theme itself `/themes/ananke`, edit the index source file under `/themes/ananke/layouts/index.html`. In there, towards the bottom, is where the code was added to make the twitter feed appear. This had to be done to add the Logo next to the page header.
-* The `/archetypes` directory is basically the template for new markdown pages. You reall won't have to edit it.
+* What if I want to edit the HTML itself? Well. Take the twitter feed for example. Hugo compiles everything from the content directory and spits it out to the public directory. If you wanted to change the actual code for the index page, like adding the Twitter Feed, then you would go into the `/themes/` directory, then for the theme itself `/themes/ananke`, edit the index source file under `/themes/ananke/layouts/index.html`. In there, towards the bottom, is where the code was added to make the twitter feed appear. This had to be done to add the Logo next to the page header. You rarely have to do this but its written here for documentation purposes.
+* The `/archetypes` directory is basically the template for new markdown pages. You really won't have to edit it.
+
+### How do I add a new page?
+Easy! In the command line, type `hugo new FOLDER/NEW-PAGE.md` where FOLDER is either `about`, `posts`, `participants`, `support`, or `compete`, basically the subfolders from the content directory, and where NEW-PAGE.md is the filename of your new page.
+
+### New page was added. Now what?
+At the top of your new page, you'll see:
+```
+---
+title: "Competition Format"
+date: 2020-01-25T13:44:41-08:00
+draft: false
+---
+```
+This is the header information that Hugo uses to see if your page is a draft, what time the page/post was created and the title of your new page. There are other *optional* things you can add, and those are listed below.
+
+#### Page Header Options
+`toc: true` - This adds a table of contents to the side of the page.
+
+#### Special Attributes
+
+```<!--more-->```
+
 
 ## Markdown Primer
-
+New to Markdown? No problem!
 ### Lists
+#### Unordered List
+To make an unordered list, add an * then a space followed by whatever you want to make into the list. Add a tab in the beginning to make it a sub item.
+```
+* one.
+* two.
+* three.
+  * sub-item 1
+  * sub-item 2
+    * sub-sub-item 1
 
+```
+#### Unordered List
+Ordered lists use numbers instead:
+```
+1. Blah.
+2. Two Blah.
+3. Three Blah.
+```
 ### Tables
-
+```
+| Table Header 1 | Table Header 2 |
+| ---- | ---- |
+| First Item | Blah |
+| Second Item | Blah |
+```
 ### Bold Text
-
+Add two underscores or asterisks.
+```
+**blah**
+or
+__blah__
+```
 ### Italized Text
-
+Add one underscore or asterisk.
+```
+*blah*
+or
+_blah_
+```
 ### Links
-#### Internal
 #### External
-
+```
+[Something Online](http://example.com/something/file.html)
+```
+#### Internal
+Don't forget to remove the .md and instead of referencing a file, reference it like a folder.
+For example, if we are referencing another page, located under `participants/2020-Participants.md`, do the following:
+```
+[2020 Regional Finalists](/participants/2020-teams/)
+```
 ### Images.
+Same as internal links but they use a ! at the beginning and the pictures are located under `/static/images/pic.jpg`. As mentioned before, don't reference the `/static` folder itself:
+```
+![Some Cool Picture](/images/pic.jpg)
+```
