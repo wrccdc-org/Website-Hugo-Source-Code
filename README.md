@@ -24,12 +24,7 @@ The awesome part of using Hugo to make websites is that it uses Markdown. Hugo t
 
 ### Important Files & Folder Locations
 * The `/content` directory is where the markdown lives. Here is where you make website changes.
-* The `/public` directory is where the compiled/finished website is. Literally the finished HTML/CSS/JAVASCRIPT code. You don't touch/edit anything in ``---
-title: "Competition Format"
-date: 2020-01-25T13:44:41-08:00
-draft: false
-toc: true
---- ``here.
+* The `/public` directory is where the compiled/finished website is. Literally the finished HTML/CSS/JAVASCRIPT code. You don't touch/edit anything in here.
 * The `/static` directory is where your images, documents (pdfs, word docs, etc..), and custom CSS files live under. You don't reference the folder itself, only everything underneath. For example, if your adding a picture to the blog, then you would code it in your markdown like so: `![Some Cool Picture](/images/cool-picture.png)`. Same goes if you're adding a PDF file: `[Important Doc](/docs/important-pdf-file.pdf)`
 * What if I want to edit the HTML itself? Well. Take the twitter feed for example. Hugo compiles everything from the content directory and spits it out to the public directory. If you wanted to change the actual code for the index page, like adding the Twitter Feed, then you would go into the `/themes/` directory, then for the theme itself `/themes/ananke`, edit the index source file under `/themes/ananke/layouts/index.html`. In there, towards the bottom, is where the code was added to make the twitter feed appear. This had to be done to add the Logo next to the page header. You rarely have to do this but its written here for documentation purposes.
 * The `/archetypes` directory is basically the template for new markdown pages. You really won't have to edit it.
