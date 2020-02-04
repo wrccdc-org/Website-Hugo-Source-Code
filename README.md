@@ -49,8 +49,7 @@ These are the page header options you can add.
 * `featured_image: '/images/about.jpg'` - Adds a picture to the header of the page.
 * `omit_header_text: true` - Removes header text from the top of the page.
 * `description: Thank you..` - The header text that gets added to the top of the page.
-* `type: page
-menu: main` - This one marks the post as its own page and adds it to the index page. You most likely won't be using it but its here for documentation purposes.
+* `type: page` and `menu: main` - This one marks the post as its own page and adds it to the index page. You most likely won't be using it but its here for documentation purposes.
 * `PublishDate: false` - Removes the post publish date from the page.
 
 #### Post Special Attributes
