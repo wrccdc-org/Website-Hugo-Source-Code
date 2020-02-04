@@ -15,7 +15,7 @@ WRCCDC is brought to you by volunteers, who put in countless hours of work every
 | [@bluescreenofwin](https://twitter.com/bluescreenofwin) | Black Team |
 | [@swissk1d](https://twitter.com/swissk1d) | Black Team |
 | [@davie](https://twitter.com/daschu117) | Black Team |
-| @directorbenton | Black Team |
+| [@notneB](https://twitter.com/_notneB) | Black Team |
 | [@OVRSEER](https://twitter.com/LKKAndresX) | Black Team |
 | @Wedgie | Black Team |
 | [@_gelid_](https://twitter.com/_gelid_) | Black Team |
