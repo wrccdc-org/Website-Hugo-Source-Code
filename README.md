@@ -54,7 +54,7 @@ These are the page header options you can add.
 
 #### Post Special Attributes
 
-`<!--more-->` - When you create a new post, the links to the post automatically get generated, along with a blurb of the post. The problem is, the page doesn't know when the blurb ends so if you were to write a LONG paragraph, then the preview for the post will grow in size. This trims the preview and ends it a where you put this tag. For example, if you look at the link for the history of CCDC located under the about section, you'll see that the blurb starts at "A group of educators...." and ends with "...level students." This more tag was placed right after students to prevent this preview/link from growing in size.
+`<!--more-->` - When you create a new post, the links to the post automatically get generated, along with a blurb of the post. The problem is, the page doesn't know when the blurb ends so if you were to write a LONG paragraph, then the preview for the post will grow in size. This trims the preview and ends it a where you put this tag. For example, if you look at the link for the history of CCDC located under the about section, you'll see that the blurb starts at "A group of educators...." and ends with "...level students." This more tag was placed right after the word students to prevent this preview/link from growing in size.
 
 ## Markdown Primer
 New to Markdown? No problem!
@@ -68,7 +68,6 @@ To make an unordered list, add an * then a space followed by whatever you want t
   * sub-item 1
   * sub-item 2
     * sub-sub-item 1
-
 ```
 #### Unordered List
 Ordered lists use numbers instead:
@@ -83,6 +82,13 @@ Ordered lists use numbers instead:
 | ---- | ---- |
 | First Item | Blah |
 | Second Item | Blah |
+```
+
+To make a table left, center, or right indented, use `:`
+```
+| Table Header 1 | Table Header 2 | Table Header 3 |
+| :---- | :----: | ----: |
+| Left Indented | Centered Text | Right Indented |
 ```
 ### Bold Text
 Add two underscores or asterisks.
