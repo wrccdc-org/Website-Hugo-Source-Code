@@ -13,4 +13,4 @@ Congratulations to the teams that made it to the 2020 Regionals!<!--more-->
 5. University of California, Riverside ![University of California, Riverside](/images/2020-Teams/ucr.webp) <br>
 6. Cal State University, San Bernardino ![Cal State University, San Bernardino](/images/2020-Teams/csub.webp) <br>
 7. National University ![National University](/images/2020-Teams/nationaluniversity.webp) <br>
-8. San Diego State University ![San Diego State University](/images/2020-Teams/sandiegostate.webp) <br>
+8. -
