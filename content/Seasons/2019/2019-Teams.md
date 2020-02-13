@@ -1,6 +1,6 @@
 ---
 title: "2019 Regionals Teams"
-date: 2020-01-25T15:36:25-08:00
+date: 2019-01-23T15:36:25-08:00
 draft: false
 ---
 <hr>

@@ -1,6 +1,6 @@
 ---
 title: "Regional Finalists"
-date: 2020-01-25T15:35:45-08:00
+date: 2020-02-12T15:35:45-08:00
 draft: false
 ---
 <hr>

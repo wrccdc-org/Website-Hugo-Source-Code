@@ -34,5 +34,5 @@ enableRobotsTXT = true
   featured_image = "/images/cover.jpg"
   recent_posts_number = 2
   ShowDatesOnPosts = false
-  mainSections = ["participate"] #index page "recent" section. Also, activates twitter form.
+  mainSections = ["Seasons"] #index page "recent" section. Also, activates twitter form.
   custom_css = ["css/custom.css"]
