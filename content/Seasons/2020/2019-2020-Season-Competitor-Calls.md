@@ -1,5 +1,5 @@
 ---
-title: "2020 Season Competitor Calls"
+title: "Competitor Calls"
 date: 2019-12-30T16:39:30-08:00
 draft: false
 ---

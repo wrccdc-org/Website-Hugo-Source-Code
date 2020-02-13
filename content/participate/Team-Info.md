@@ -4,7 +4,7 @@ date: 2020-01-25T16:17:14-08:00
 draft: false
 ---
 <hr>
-Looking for past documents or import forms? Look no further.
+Looking for past documents and forms? Look no further.
 <!--more-->
 <br>
 **Packets and Handbooks:**

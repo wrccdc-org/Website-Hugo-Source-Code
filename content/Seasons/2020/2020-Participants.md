@@ -1,5 +1,5 @@
 ---
-title: "2020 Participants"
+title: "Season Participants"
 date: 2020-02-03T12:16:10-08:00
 draft: false
 ---
