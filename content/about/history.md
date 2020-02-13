@@ -5,9 +5,7 @@ draft: false
 PublishDate: false
 ---
 <hr>
-#### February 27 & 28, 2004
-
-A group of educators, students, government and industry representatives gathered in San Antonio, Texas, to discuss the feasibility and desirability of establishing regular cyber security exercises with a uniform structure for post-secondary level students.<!--more-->
+On February 27 & 28, 2004, a group of educators, students, government and industry representatives gathered in San Antonio, Texas, to discuss the feasibility and desirability of establishing regular cyber security exercises with a uniform structure for post-secondary level students.<!--more-->
 
 During their discussions, this group suggested the goals of creating a uniform structure for cyber security exercises that might include the following:
 
