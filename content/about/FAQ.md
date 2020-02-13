@@ -9,12 +9,6 @@ Our most Frequently Asked Questions.<!--more-->
 ## How Long is WRCCDC?
 WRCCDC _(Western Regional Collegiate Cyber Defense Competition)_ is a __two day__ competition event.
 
-## What is the competition like?
-You have just been hired as the network and security administrators at a small company and will be taking administrative control of all information systems. You know very little about the network, what security level has been maintained, or what software has been installed. You have one hour to familiarize yourself with the network and systems and to begin the security updates and patches before the red team starts actively attacking your company. In the midst of all the commotion, you have to keep up with the needs of the business and user demands while maintaining service level agreements for all critical Internet services. Welcome to the first day of the National Collegiate Cyber Defense Competition (CCDC).
-
-## What are some the previous year's scenarios?
-Previous competitions have included scenarios such as factories, startup-up companies, defense contractors, theme parks, food production facilities, malware research companies, colleges, cloud providers, and much more.
-
 ## What is white/black/orange/etc.. team?
 Throughout the competition the following teams exist and competitors will interact with:
 

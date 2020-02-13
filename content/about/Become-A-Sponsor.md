@@ -1,12 +1,64 @@
 ---
-title: "Testimonials"
-date: 2020-01-24T08:38:19-08:00
+title: "Become a Sponsor"
+date: 2020-02-12T18:27:33-08:00
 draft: false
 ---
 <hr>
-Why Support WRCCDC . . . our student competitors share why.
+In order to promote the competition's success, we need a strong foundation. Sponsorship allows us to maintain the high quality associated with this program. Sponsorship also defrays institution costs, increases participation, and the number of students entering the workforce with this invaluable experience. 
 <!--more-->
+> THE BEST PLACE TO TRAIN FUTURE SECURITY LEADERS
 
+By taking an active role in sponsoring the Western Regional Collegiate Cyber Defense Competition, companies and organizations get the opportunity to get to know leading students specializing in information security from a variety of educational institutions. 
+
+In addition, everyone attending will learn something from observing the students, listening to our elite Red Team debrief, and in general, talking with the participants, organizers, observers, and those who share a passion in information security.
+
+If you'd like to help out the WRCCDC program by becoming a sponsor, please check out our various Sponsorship tiers. WRCCDC also accepts in-kind donations, like equipment or software, and donations in any amount. The amounts specified below include recognition of the donor's support.
+
+[Download our Support Package PDF](/docs/support-package.pdf)
+
+## Diamond | $20,000
+* 3 Red Team Placements
+* Presentation at Closing Ceremonies
+* Company Name on 1st Place Trophy
+* 2 Pop-up Banners at the Event
+* _+Bronze Benefits_
+<br>
+
+## Platinum | $15,000
+* 2 Red Team Placements
+* Presentation at Closing Ceremonies
+* Company Name on 2nd Place Trophy
+* 1 Pop-up Banner at the Event
+* _+Bronze Benefits_
+<br>
+
+## Gold | $10,000
+* 1 Red Team Placement
+* 1 Pop-up Banner at the Event
+* _+Bronze Benefits_
+<br>
+
+## Bronze | $5,000
+* Logo & Recruiting URL on WRCCDC.org Website
+* Table at Recruiting Mixer
+* Digital Resume Book
+* Designated Supporter on Event Signage
+
+> Uncle Sam Wants You (To Fight Hackers) "Cyber-Defense competitions at Cal Poly Pomona and other universities are one example of increased public-private cooperation, as recruiters scour contestants for the next generation of cybersecurity talent. Because cyberattacks happen so quickly and attackers can change tactics rapidly, experts say the fight often boils down to people skills—which side has the best-trained cyberwarriors.” – BusinessWeek 
+
+<br>
+
+> Wanted: ‘Cyber Ninjas’ "FOR a regional competition last spring, eight students from California State Polytechnic University, Pomona, spent six months of Saturdays practicing how to defend a typical business computer network from attacks. Then, over two grueling days, they outscored teams from five other schools at blocking worms and other efforts to disrupt their e-mail and Internet systems.” – The New York Times
+
+<br>
+
+> Industry firms are looking beyond traditional recruiting "As computer threats become more coordinated and complex, Boeing and other defense contractors are bolstering their cyber-security staffs. Increasingly they are turning to unlikely characters like Sims and Tam, who as students had distinguished themselves more on simulated cyber battlefields than in classrooms.” – Los Angeles Times
+
+<br>
+
+> College students battle for cyber defense championship (Howard) Schmidt commented that "this event demonstrated the power of public and private partnerships in making the Internet safer and developing the workforce of tomorrow” – USA Today 
+
+# Testamonials
 ![Awards Ceremony - 2018](/images/testimonial1.jpg)
 
 ### Confidence to achieve great things.
