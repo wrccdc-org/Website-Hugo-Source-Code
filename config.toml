@@ -1,5 +1,5 @@
 title = "WRCCDC"
-baseURL = "https://wrccdc-org.github.io/"
+baseURL = "https://wrccdc.org/"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
