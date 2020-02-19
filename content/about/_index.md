@@ -15,4 +15,4 @@ Previous competitions have included scenarios such as factories, startup-up comp
 # Where can I learn more?
 The first thing we can recommend is to check with your local college/university/school club directory to see if there is already an established club or organization that is registered for the competition.
 
-If you are a new school that has never competed before, check out the links below, including the rules and FAQ's to see if your team and/or school is eligible to play. If you are a company that would like to get involved through a sponsorship, please check out our sponsorship information page below.
+If you are a new school that has never competed before, check out the links below, including the rules and FAQ's to see if your team and/or school is eligible to play. If you are a company that would like to get involved through a sponsorship, please check out our sponsorship information page below. 
