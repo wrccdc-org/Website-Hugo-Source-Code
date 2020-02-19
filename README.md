@@ -12,8 +12,8 @@ The website is built with Hugo. Hugo is a static site generator, similar to Jeky
 
 ## Setup Instructions
 1. To get started as fast as possible, install and use Github Desktop. Since the WRCCDC org account is associated with your personal account, it makes pushing new edits to the site a breeze. You don't have to use it but if you want to use the command line instead, then you'll have to manually configure git to push over to the org repo and that can get complicated.
-2. Clone both repos. This one and the https://github.com/wrccdc-org/wrccdc-org.github.io repo. This repo contains the source code; the other repo contains the compiled website code.
-3. Edit `deploy.sh` and change the variable on top to the directory location on your computer of where the wrccdc-org.github.io repo is.
+2. Clone both repos. This one and the https://github.com/wrccdc-org/wrccdc.org repo. This repo contains the source code; the other repo contains the compiled website code.
+3. Edit `deploy.sh` and change the variable on top to the directory location on your computer of where the wrccdc.org repo is.
 4. Use a text editor to make website changes then save your changes. SEE BELOW FOR FURTHER DETAILS ON THIS.
 5. It is a good idea to see your changes locally. Run `server.sh` or `hugo server -D -E -F` to start the Hugo Server. Then in a web browser, go to `http://127.0.0.1:1313/`. You'll see the website live, literally the same way as it will appear online.
 6. Once you are happy with the changes, run deploy.sh. All it will do is compile the site, then take the compiled website code from Hugo, **now under the public directory**, and move it over to the repo of where the site will be hosted from.

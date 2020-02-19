@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO=~/Documents/Github/wrccdc.github.io
+REPO=~/wrccdc.org/
 
 # Build the site.
 echo "-------------------------------"
