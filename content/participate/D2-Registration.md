@@ -3,6 +3,7 @@ title: "Division 2 Registration"
 date: 2020-02-18T23:48:07-08:00
 draft: false
 ---
+<hr>
 This is the registration page for Division 2 teams.
 <!--more-->
 *Please fill out the form below. If the form does not render, make sure javascript is enabled.*
