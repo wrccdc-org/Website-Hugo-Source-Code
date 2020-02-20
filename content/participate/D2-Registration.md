@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Registration"
-date: 2020-02-19T23:48:07-08:00
+date: 2020-02-18T23:48:07-08:00
 draft: false
 ---
 This is the registration page for Division 2 teams.
