@@ -6,7 +6,7 @@ REPO=~/wrccdc.org/
 echo "-------------------------------"
 echo -e "\033[0;32mCompiling site...\033[0m"
 echo "-------------------------------"
-hugo -D -E -F -t ananke # if using a theme, replace with `hugo -t <YOURTHEME>` # this creates the "public" folder which is the final website.
+hugo -t ananke # if using a theme, replace with `hugo -t <YOURTHEME>` # this creates the "public" folder which is the final website.
 
 cp -r public/ $REPO
 
