@@ -4,8 +4,11 @@ date: 2020-01-25T15:02:14-08:00
 draft: false
 ---
 <hr>
-## Schedule of Events
+
+This is the Schedule of Events for the 2020 Regional.
 <!--more-->
+<br>
+
 | **Date** | **Description** |
 | :----------- | -----------: |
 | **Thursday, March 19** | Teams Check into Hotel |

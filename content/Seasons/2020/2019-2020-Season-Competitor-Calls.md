@@ -4,7 +4,9 @@ date: 2019-12-30T16:39:30-08:00
 draft: false
 ---
 <hr>
-#### COMPETITORS CALLS (schedule may change) <!--more-->
+
+These are the tentative dates for the competitor calls. The schedule may be subject to change.
+<!--more-->
 
 - November 22, 2019
   - 3PM-4PM PDT Conference Call

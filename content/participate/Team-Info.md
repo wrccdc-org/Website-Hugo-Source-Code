@@ -7,28 +7,31 @@ draft: false
 Looking for past documents and forms? Look no further.
 <!--more-->
 <br>
-**Packets and Handbooks:**
+
+__Packets and Handbooks:__
 
 * [2018 Practice Environment Handbook](/docs/2018-Practice-Handbook.pdf)
 
 <br>
-**Forms:**
+
+__Forms:__
 
 * [Code Of Conduct Form](/docs/code-of-conduct.pdf)
 
 <br>
-**Preparation:**
+
+__Preparation:__
 
 * [Cyber Watch West - CCDC Prep](/docs/cww-ccdc-prep.pdf)
 * [2010 Network Topology](/docs/2010-networkTopology.pdf)
 * [2010 Team Packet](/docs/2010-teamPacket.pdf)
-* [2012 Blue Team Packet](/docs/Blue Team Packet 2012 v1.6.pdf)
-* [2013 Babbage University Welcome Letter](/docs/2013-BabbageUnivWelcome Ltr.docx)
+* [2012 Blue Team Packet](/docs/Blue-Team-Packet-2012-v1.6.pdf)
+* [2013 Babbage University Welcome Letter](/docs/2013-BabbageUnivWelcome-Ltr.docx)
 * [2014 Blue Team Packet](/docs/2014WRCCDCQTeamPack_v2.pdf)
 * [2015 Blue Team Packet](/docs/2015WRCCDCQTeamPack_v3.pdf)
-* [2015 Official Competition Guide](/docs/WRCCDC 2015 OfficialCompetitionGuide.pdf)
-* [2016 Invitationals Team Packet ](/docs/WRCCDC_Fall16ICCDCTeamPack.pdf)
-* [2016 Official Competition Guide](/docs/WRCCDC 2016 Official Program.pdf)
-* [2017 Official Competition Guide](/docs/WRCCDC 2017 Program.pdf)
-* [2018 Official Competition Guide](/docs/WRCCDC 2018 OfficialProgram.pdf)
+* [2015 Official Competition Guide](/docs/WRCCDC-2015-OfficialCompetitionGuide.pdf)
+* [2016 Invitationals Team Packet ](/docs/WRCCDC-Fall16ICCDCTeamPack.pdf)
+* [2016 Official Competition Guide](/docs/WRCCDC-2016-Official-Program.pdf)
+* [2017 Official Competition Guide](/docs/WRCCDC-2017-Program.pdf)
+* [2018 Official Competition Guide](/docs/WRCCDC-2018-OfficialProgram.pdf)
 * [2019 Blue Team Packet](/docs/WRCCDC-Packet.pdf)

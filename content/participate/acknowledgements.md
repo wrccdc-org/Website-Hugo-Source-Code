@@ -5,7 +5,7 @@ draft: false
 ---
 <hr>
 WRCCDC is brought to you by volunteers, who put in countless hours of work every week. Without their help, this competition would not be possible. We would like to take the opportunity to thank everyone for their hard work and contribution.<!--more-->
-<br><br>__If you ARE NOT on this list, please, please, please reach out to us on Discord, Email or Twitter.__ That includes all WRCCDC WHITE, ORANGE, RED, BLACK, &amp; GOLD team members.
+<br><br> __If you ARE NOT on this list, please, please, please reach out to us on Discord, Email or Twitter.__ That includes all WRCCDC WHITE, ORANGE, RED, BLACK, &amp; GOLD team members.
 
 | Name | Task |
 | :---- | :---- |

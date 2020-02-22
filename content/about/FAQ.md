@@ -4,6 +4,7 @@ date: 2020-02-12T16:37:13-08:00
 draft: false
 ---
 <hr>
+
 Our most Frequently Asked Questions.<!--more-->
 
 ## How Long is WRCCDC?
@@ -26,7 +27,7 @@ Throughout the competition the following teams exist and competitors will intera
 Yes. The entirety of CCDC is split into 10 regions. We are the Western Regional. Each region sends their first place winners to compete at Nationals, where each team battles it out for champion. Due to the number of universities and colleges that get to participate, each region may operate differently in terms of how they get to select which teams get to compete at their regional.
 
 ## Who can participate?
-Competitors are College and University students from Arizona, Nevada, and California. If you are not from these states, then we recommend you look into the other CCDC regions. 
+Competitors are College and University students from Arizona, Nevada, and California. If you are not from these states, then we recommend you look into the other CCDC regions.
 
 ## What is the typical structure of the competition season?
 For us, we hold multiple, online, introductory rounds to allow new and returning teams to *"test the waters"*. We call these the **Invitationals**. Once the Invitationals are over, we hold an online qualifying round known as **Qualifiers** where we filter out the 10 best teams that will eventually compete at our in-person, real-time, regional round known as **Regionals**. Due to the number of schools that participate in our region, as well as the capacity of our IT infrastructure, we implemented this qualifying round to make everyone's experience as fair and enjoyable as possible. The first place winners at Regionals get sent to compete at **Nationals**.
