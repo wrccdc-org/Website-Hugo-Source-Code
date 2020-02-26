@@ -11,7 +11,7 @@ menu: main
 We would like to take the time to thank all of our sponsors for their support. Without their contributions, this competition would not be possible. If you are interested in sponsoring us for next year, our call for Sponsors for the 2020 season is now open! Please see our [Sponsorship Information Page](/about/become-a-sponsor/) for more information.
 
 <br>
-<h1> Diamond </h1>
+<h1> Platinum </h1>
 
 <a href="https://www.paloaltonetworks.com/">{{< figure src="/images/2020Sponsors/PaloAltoNetworks.png" class="" >}}</a>
 <a href="https://www.carbonblack.com/">{{< figure src="/images/2020Sponsors/vmware-carbon-black.png" class="" >}}</a>
