@@ -26,6 +26,8 @@ Throughout the competition the following teams exist and competitors will intera
 ## Are there other regions?
 Yes. The entirety of CCDC is split into 10 regions. We are the Western Regional. Each region sends their first place winners to compete at Nationals, where each team battles it out for champion. Due to the number of universities and colleges that get to participate, each region may operate differently in terms of how they get to select which teams get to compete at their regional.
 
+![Regional Map](/images/2021/RegionalMap.jpg)
+
 ## Who can participate?
 Competitors are College and University students from Arizona, Nevada, and California. If you are not from these states, then we recommend you look into the other CCDC regions.
 
