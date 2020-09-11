@@ -7,7 +7,7 @@ description: "@ Coastline Community College, Garden Grove, CA"
 ---
 <br>
 
-We would like to thank everyone back to the 2021 WRCCDC Season.
+We would like to welcome everyone back to the 2021 WRCCDC Season.
 
 <br>
 <hr>
