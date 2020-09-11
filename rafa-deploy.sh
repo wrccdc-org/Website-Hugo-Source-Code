@@ -17,4 +17,5 @@ cp -r public/ $REPO
 echo "-------------------------------"
 echo "Compiled Site Location: $REPO "
 echo -e "\033[0;32mDONE... Don't forget to Commit and Push!\033[0m"
+open -a Github\ Desktop
 echo "-------------------------------"
