@@ -16,4 +16,6 @@ CCDC is the first competition that specifically focuses on the operational aspec
 
 The 2021 Season has already started! <b>[Click here](/seasons/2021/)</b> for the latest season information.
 
+If you are interested in participating in the November Invitational, please fill out <b>[this form](/seasons/2021/invitational-registration/)</b>. You must be a registered team to compete.
+
 <hr>
