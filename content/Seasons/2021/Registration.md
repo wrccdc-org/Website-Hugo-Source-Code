@@ -1,5 +1,5 @@
 ---
-title: "Registration"
+title: "Team Registration"
 date: 2020-09-07T12:28:47-07:00
 draft: false
 ---
