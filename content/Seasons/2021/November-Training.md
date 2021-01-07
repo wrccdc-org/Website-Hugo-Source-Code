@@ -15,6 +15,4 @@ Additional information and confirmation will be emailed out to participants the 
 
 You MUST provide both a Team Coach and Team Capt. Email Address. Your Team Coach MUST be affiliated with your school as either Faculty or Staff. ONLY school email addresses will be responded to and accepted. Please use the form below to sign up. If the form does not appear, please click on the link below.
 
-<iframe src="https://docs.google.com/forms/d/1ZXYjd68AlQ4mcvNA2P1k70i8PkAjkPFXRqOCxHJ5GLM/viewform" width="640" height="943" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Form Link: https://docs.google.com/forms/d/1ZXYjd68AlQ4mcvNA2P1k70i8PkAjkPFXRqOCxHJ5GLM/viewform
+Form Link: *Event has passed.*
