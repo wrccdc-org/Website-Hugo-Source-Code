@@ -7,7 +7,7 @@ description: "@ Coastline Community College, Garden Grove, CA"
 ---
 <br>
 
-The list of registered teams for the 2021 WRCCDC Online Qualifier is out! [Click Here!](/seasons/2021//qualifier-registered-teams)
+WRCCDC is proud to announce the winners of the WRCCDC Qualifiers 2021! [Click Here!](/seasons/2021/regional-finalists)
 
 <br>
 <hr>
