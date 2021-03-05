@@ -20,6 +20,7 @@ We would like to take the time to thank all of our sponsors for their support. W
 <h1> Bronze </h1>
 
 <a href="https://www.tesla.com/">{{< figure src="/images/2020Sponsors/tesla-logo.png" class="fl w-third" >}}</a>
+<a href="https://www.cobaltstrike.com/">{{< figure src="/images/2020Sponsors/cobaltstrike.png" class="fl w-third" >}}</a>
 <a href="https://www.tenable.com/">{{< figure src="/images/2020Sponsors/tenable.png" class="fl w-third" >}}</a>
 <a href="https://www.crowdstrike.com/">{{< figure src="/images/2020Sponsors/crowdstrike.png" class="fl w-third" >}}</a>
 <a href="https://owasp.org/">{{< figure src="/images/2020Sponsors/owasp.webp" class="fl w-third" >}}</a>
