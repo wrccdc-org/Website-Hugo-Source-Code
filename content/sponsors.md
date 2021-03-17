@@ -32,5 +32,5 @@ We would like to take the time to thank all of our sponsors for their support. W
 <a href="https://www.crowdstrike.com/">{{< figure src="/images/2020Sponsors/crowdstrike-logo.png" class="" >}}</a>
 <a href="https://www.paloaltonetworks.com/">{{< figure src="/images/2020Sponsors/PaloAltoNetworks.png" class="" >}}</a>
 <a href="https://www.servicenow.com/">{{< figure src="/images/2020Sponsors/servicenow.png" class="" >}}</a>
-<a href="https://www.socallinuxexpo.org/">{{< figure src="/images/2020Sponsors/scale_logo_lg.svg" class="" >}}</a>
+<a href="https://www.scale.com/">{{< figure src="/images/2020Sponsors/logo_scale.png" class="" >}}</a>
 <a href="https://www.tenable.com/">{{< figure src="/images/2020Sponsors/tenable-sec.png" class="" >}}</a>
