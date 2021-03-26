@@ -28,6 +28,7 @@ We would like to take the time to thank all of our sponsors for their support. W
 <br>
 <h1> Bronze </h1>
 
+<a href="https://www.blackberry.com/">{{< figure src="/images/2020Sponsors/Blackberry-Logo.png" class="" >}}</a>
 <a href="https://www.cobaltstrike.com/">{{< figure src="/images/2020Sponsors/cobaltstrike.png" class="" >}}</a>
 <a href="https://www.crowdstrike.com/">{{< figure src="/images/2020Sponsors/crowdstrike-logo.png" class="" >}}</a>
 <a href="https://www.paloaltonetworks.com/">{{< figure src="/images/2020Sponsors/PaloAltoNetworks.png" class="" >}}</a>
