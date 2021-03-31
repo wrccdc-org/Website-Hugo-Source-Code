@@ -23,7 +23,7 @@ We would like to take the time to thank all of our sponsors for their support. W
 <br>
 <h1> Silver </h1>
 
-<a href="https://isacala.org/">{{< figure src="/images/2020Sponsors/ISACA_logo.png" class="" >}}</a>
+<a href="https://isacala.org/">{{< figure src="/images/2020Sponsors/ISACA_logo_LosAngeles_RGB.png" class="" >}}</a>
 
 <br>
 <h1> Bronze </h1>

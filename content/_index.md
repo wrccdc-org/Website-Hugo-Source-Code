@@ -6,25 +6,17 @@ description: "@ Coastline Community College, Garden Grove, CA"
 
 ---
 <br>
-Regionals is LIVE! Good luck to all the teams competing!
-<br><br>
-<hr>
+WRCCDC Regionals has ended! Congratulations to the winners of this year's WRCCDC.
 
-<h3>WRCCDC 2021 Links</h3>
-<form>
-  <h4>Service-Now Ticket System: <button formaction="https://wrccdc.service-now.com/">Tickets</button></h4>
-  <h4>Live Scoring*: <button formaction="https://arena.wrccdc.org/scores/">Scoring</button></h4>
-  <h4>Live Twitch Stream: <button formaction="https://twitch.com/hardchat">Twitch Stream</button></h4>
-  <h6>*Please manually refresh the scoring page every two minutes.*</h6>
-</form>
+<b>First Place:</b> University of California Irvine (UCI)
+<a href="https://uci.edu/">{{< figure src="/images/2021/Teams/uci-logo.png" class="w-third center" >}}</a><br>
 
-<hr>
-<h3>WRCCDC 2021 Regionals Schedule</h3>
+<b>Second Place:</b> Stanford University
+<a href="https://www.stanford.edu/">{{< figure src="/images/2021/Teams/Stanford-Logo.png" class="w-third center" >}}</a><br>
 
-  Day 1, Friday March 26th 9AM – 5PM.
-  Day 2, Saturday March 27th 9AM – 5PM.
-  Awards Day, Sunday March 28th 11AM - 1PM.
-
+<b>Third Place:</b> UC Riverside (UCR)
+<a href="https://www.ucr.edu/">{{< figure src="/images/2021/Teams/ucr-logo.png" class="w-third center" >}}</a>
+<br>
 <hr>
 
 CCDC is the first competition that specifically focuses on the operational aspect of managing and protecting an existing "commercial" network infrastructure.
