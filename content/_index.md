@@ -9,6 +9,8 @@ description: "@ Coastline Community College, Garden Grove, CA"
 
 [WRCCDC 2021 Schedule is up!](/seasons/2022/2021-2022-season)
 
+<hr>
+
 WRCCDC 2020 Regionals has ended! Congratulations to the winners of this year's WRCCDC.
 
 <b>First Place:</b> University of California Irvine (UCI)
