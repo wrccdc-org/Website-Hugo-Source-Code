@@ -7,7 +7,7 @@ description: "@ Coastline Community College, Garden Grove, CA"
 ---
 <br>
 
-[WRCCDC 2021 Schedule is up!](/seasons/2022/2021-2022-season)
+[WRCCDC 2021-2022 Schedule is up!](/seasons/2022/2021-2022-season)
 
 <hr>
 

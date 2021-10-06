@@ -1,6 +1,6 @@
 ---
 title: "Become a Sponsor"
-date: 2020-02-12T18:27:33-08:00
+date: 2021-10-5T18:27:33-08:00
 draft: false
 ---
 <hr>
@@ -13,26 +13,23 @@ By taking an active role in sponsoring the Western Regional Collegiate Cyber Def
 In addition, everyone attending will learn something from observing the students, listening to our elite Red Team debrief, and in general, talking with the participants, organizers, observers, and those who share a passion in information security.
 
 If you'd like to help out the WRCCDC program by becoming a sponsor, please check out our various Sponsorship tiers. WRCCDC also accepts in-kind donations, like equipment or software, and donations in any amount. The amounts specified below include recognition of the donor's support.
+[Download our 2021-2022 Support Packet PDF](/docs/WRCCDC_Sponsor_Packet_2021-2022.pdf)
 
-[Download our Support Package PDF](/docs/support-package.pdf)
-
-## Diamond | $20,000
+## Platinum | $20,000
 * 3 Red Team Placements
 * Presentation at Closing Ceremonies
 * Company Name on 1st Place Trophy
-* 2 Pop-up Banners at the Event
 * _+Bronze Benefits_
 <br>
 
-## Platinum | $15,000
+## Gold | $15,000
 * 2 Red Team Placements
 * Presentation at Closing Ceremonies
 * Company Name on 2nd Place Trophy
-* 1 Pop-up Banner at the Event
 * _+Bronze Benefits_
 <br>
 
-## Gold | $10,000
+## Silver| $10,000
 * 1 Red Team Placement
 * 1 Pop-up Banner at the Event
 * _+Bronze Benefits_
@@ -40,9 +37,9 @@ If you'd like to help out the WRCCDC program by becoming a sponsor, please check
 
 ## Bronze | $5,000
 * Logo & Recruiting URL on WRCCDC.org Website
-* Table at Recruiting Mixer
+* Private Breakout Room at Virtual Recruiting Mixer
 * Digital Resume Book
-* Designated Supporter on Event Signage
+* Designated Supporter on Event Marketing Materials
 
 > Uncle Sam Wants You (To Fight Hackers) "Cyber-Defense competitions at Cal Poly Pomona and other universities are one example of increased public-private cooperation, as recruiters scour contestants for the next generation of cybersecurity talent. Because cyberattacks happen so quickly and attackers can change tactics rapidly, experts say the fight often boils down to people skills—which side has the best-trained cyberwarriors.” – BusinessWeek 
 

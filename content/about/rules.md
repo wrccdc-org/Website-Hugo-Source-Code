@@ -6,7 +6,7 @@ toc: true
 ---
 <hr>
 
-The following are the approved national rules for the 2019-2020 CCDC season. Please refer to the official rules for your specific CCDC event for any local variations. WRCCDC largely follows National CCDC rules, however there are minor differences between this and other regions. Contact <organizers@wrccdc.org> if you have questions. <!--more--> Click on the table of contents to the right to quickly jump to another section.
+The following are the approved national rules for the 2021-2022 CCDC season. Please refer to the official rules for your specific CCDC event for any local variations. WRCCDC largely follows National CCDC rules, however there are minor differences between this and other regions. Contact <organizers@wrccdc.org> if you have questions. <!--more--> Click on the table of contents to the right to quickly jump to another section.
 
 ## Terminology
 Throughout these rules, the following terms are used:
@@ -202,4 +202,4 @@ With the advent of viable remote access technologies and virtualization, teams w
 
 * __b.__ A recommendation for Remote Site Judge(s) is expected to be given from a Team representative of the participating institution to the CCDC Event Manager. Remote Site Judge(s) must not be currently employed, a student of, or otherwise affiliated with the participating institution, other than membership on an advisory board. CCDC Event Managers should also be apprised of a contact from the participating institution responsible for core networking and internet connectivity that will be available during the CCDC event.R emote teams are required to compete from a location with controlled access, i.e., a separate room or a portion of a room that is dedicated for use during the CCDC event. Workstations and internet access must comply with published requirements.
 
-> Last updated: November 4, 2017
+> Last updated: October 5, 2021
