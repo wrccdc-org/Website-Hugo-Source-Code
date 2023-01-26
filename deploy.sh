@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO=~/wrccdc.org/
+REPO=/opt/wrccdc.org/
 
 # Build the site.
 echo "-------------------------------"

@@ -6,10 +6,30 @@
     <description>Recent content in Western Regional Collegiate Cyber Defense Competition on WRCCDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Aug 2021 23:39:30 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2022 23:27:30 -0700</lastBuildDate>
     
 	<atom:link href="https://wrccdc.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invitational Registration</title>
+      <link>https://wrccdc.org/seasons/2023/invitational-registration/</link>
+      <pubDate>Wed, 03 Aug 2022 23:27:30 -0700</pubDate>
+      
+      <guid>https://wrccdc.org/seasons/2023/invitational-registration/</guid>
+      <description>&lt;hr&gt;
+Please fill out this form to sign up for the Fall Invitational coming up in November.</description>
+    </item>
+    
+    <item>
+      <title>Season Schedule</title>
+      <link>https://wrccdc.org/seasons/2023/season-schedule/</link>
+      <pubDate>Wed, 03 Aug 2022 23:16:46 -0700</pubDate>
+      
+      <guid>https://wrccdc.org/seasons/2023/season-schedule/</guid>
+      <description>&lt;hr&gt;
+Hello Everyone! We are pleased to announce the tentative dates for the WRCCDC 2022-2023 season.</description>
+    </item>
     
     <item>
       <title>Season Dates</title>
@@ -257,10 +277,10 @@ Your Name Email Address An email address is required.  Message   </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wrccdc.org/sponsors/</guid>
-      <description>We would like to take the time to thank all of our sponsors for their support. Without their contributions, this competition would not be possible. If you are interested in sponsoring us for next year, our call for Sponsors for the 2021-2022 season are now open! Please see our Sponsorship Information Page for more information.
+      <description> We would like to take the time to thank all of our sponsors for their support. Without their contributions, this competition would not be possible. If you are interested in sponsoring us for next year, our call for Sponsors for the 2021-2022 season are now open! Please see our Sponsorship Information Page for more information.
  Platinum    
  Gold    
- Silver</description>
+    Silver   Bronze                       </description>
     </item>
     
   </channel>

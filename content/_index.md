@@ -5,27 +5,29 @@ omit_header_text: true
 description: "@ Coastline Community College, Garden Grove, CA"
 
 ---
-<br>
 
-[WRCCDC 2021-2022 Schedule is up!](/seasons/2022/2021-2022-season)
+The WRCCDC 2022-2023 has started. [Click here](/seasons/2023/season-schedule/) to checkout the season schedule or [click here](seasons/2023/invitational-registration/) to sign up for the Fall Invitational. We will keep you posted on any WRCCDC updates and news.
+&nbsp;
 
 <hr>
 
-WRCCDC 2020 Regionals has ended! Congratulations to the winners of this year's WRCCDC.
+Top 3 at the 2021-2022 Western Regionals:
 
-<b>First Place:</b> University of California Irvine (UCI)
-<a href="https://uci.edu/">{{< figure src="/images/2021/Teams/uci-logo.png" class="w-third center" >}}</a><br>
-
-<b>Second Place:</b> Stanford University
+<b>First Place:</b> Stanford University
 <a href="https://www.stanford.edu/">{{< figure src="/images/2021/Teams/Stanford-Logo.png" class="w-third center" >}}</a><br>
 
-<b>Third Place:</b> UC Riverside (UCR)
-<a href="https://www.ucr.edu/">{{< figure src="/images/2021/Teams/ucr-logo.png" class="w-third center" >}}</a>
+<b>Second Place:</b> University of California, Irvine (UCI)
+<a href="https://uci.edu/">{{< figure src="/images/2021/Teams/uci-logo.png" class="w-third center" >}}</a>
+
+<b>Third Place:</b> Arizona State University (ASU)
+<a href="https://www.asu.edu/">{{< figure src="/images/2021/Teams/asu.png" class="w-third center" >}}</a><br>
+
+
 <br>
 <hr>
 
 CCDC is the first competition that specifically focuses on the operational aspect of managing and protecting an existing "commercial" network infrastructure.
 
-The 2021 Season has already started! <b>[Click here](/seasons/2021/)</b> for the latest season information.
+<b>[Click here](/seasons/2023/)</b> for the latest season information.
 
 <hr>
