@@ -1,6 +1,7 @@
 #!/bin/bash
 # THIS IS RAFA'S PERSONAL COMMIT FILE.
 REPO=/opt/wrccdc.org/
+SOURCEREPO=/opt/Website-Hugo-Source-Code
 
 # Build the site.
 echo "-------------------------------"
@@ -22,4 +23,12 @@ git add *
 git commit
 git push origin master
 #open -a Github\ Desktop
+echo "-------------------------------"
+
+echo "-------------------------------"
+echo "Pushing latest source code up to Github."
+cd $SOURCEREPO
+git add *
+git commit
+git push origin master
 echo "-------------------------------"
