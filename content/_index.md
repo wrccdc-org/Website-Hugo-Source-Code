@@ -7,7 +7,7 @@ description: "@ Coastline Community College, Garden Grove, CA"
 ---
 
 The WRCCDC 2022-2023 has started. [Click here](/seasons/2023/season-schedule/) to checkout the season schedule or [click here](seasons/2023/qualifier-registration/) to sign up your team for the upcoming Qualifier. We will keep you posted on any WRCCDC updates and news.
-&nbsp;
+&nbsp; 
 
 <hr>
 
