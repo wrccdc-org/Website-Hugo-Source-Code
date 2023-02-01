@@ -10,4 +10,4 @@ Welcome to all the competitors!
 
 Click the link below to view the current Season or see below for volunteer information and current/past documentation.
 
-<strong>[Become Involved with the Current Season](/seasons/2020/)!</strong>
+<strong>[Become Involved with the Current Season](/seasons/2023/)!</strong>

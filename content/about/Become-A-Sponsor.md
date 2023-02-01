@@ -1,6 +1,6 @@
 ---
 title: "Become a Sponsor"
-date: 2021-10-5T18:27:33-08:00
+date: 2023-10-5T18:27:33-08:00
 draft: false
 ---
 <hr>
@@ -12,8 +12,8 @@ By taking an active role in sponsoring the Western Regional Collegiate Cyber Def
 
 In addition, everyone attending will learn something from observing the students, listening to our elite Red Team debrief, and in general, talking with the participants, organizers, observers, and those who share a passion in information security.
 
-If you'd like to help out the WRCCDC program by becoming a sponsor, please check out our various Sponsorship tiers. WRCCDC also accepts in-kind donations, like equipment or software, and donations in any amount. The amounts specified below include recognition of the donor's support.
-[Download our 2021-2022 Support Packet PDF](/docs/WRCCDC_Sponsor_Packet_2021-2022.pdf)
+If you'd like to help out the WRCCDC program by becoming a sponsor, please check out our various Sponsorship tiers. WRCCDC also accepts in-kind donations, like equipment or software, and donations in any amount. The amounts specified below include recognition of the donor's support. Please check out the PDF below for contact details.
+[Download our 2022-2023 Support Packet PDF](/docs/WRCCDC_Sponsor_Packet_2022-2023.pdf)
 
 ## Platinum | $20,000
 * 3 Red Team Placements

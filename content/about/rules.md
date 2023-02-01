@@ -1,12 +1,12 @@
 ---
 title: "Competition Rules"
-date: 2019-12-30T15:07:24-08:00
+date: 2023-01-31T15:07:24-08:00
 draft: false
 toc: true
 ---
 <hr>
 
-The following are the approved national rules for the 2021-2022 CCDC season. Please refer to the official rules for your specific CCDC event for any local variations. WRCCDC largely follows National CCDC rules, however there are minor differences between this and other regions. Contact <organizers@wrccdc.org> if you have questions. <!--more--> Click on the table of contents to the right to quickly jump to another section.
+The following are the approved national rules for the 2022-2023 CCDC season. Please refer to the official rules for your specific CCDC event for any local variations. WRCCDC largely follows National CCDC rules, however there are minor differences between this and other regions. Contact <organizers@wrccdc.org> if you have questions. <!--more--> Click on the table of contents to the right to quickly jump to another section.
 
 ## Terminology
 Throughout these rules, the following terms are used:

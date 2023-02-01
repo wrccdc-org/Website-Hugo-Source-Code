@@ -1,14 +1,11 @@
 ---
 title: "Competition Format"
-date: 2020-01-25T13:44:41-08:00
+date: 2023-01-31T13:44:41-08:00
 draft: false
 toc: true
 ---
 <hr>
 Since the Western Regional of CCDC covers a large region of schools, we host multiple, invitationals each year to give many schools the opportunity to participate in the competition. <!--more-->In order to be fair and have the best competition as possible, the top 8 teams from the qualifier move on to compete in person at the Regional, where the 1st place winner moves onward to Nationals.
-
-## D2 (Virtual)
-For teams who wish to build up skills in cyber-security and defense we offer a competition tailored to community colleges and Freshman/Sophomore teams. Schools who participate in Division 2 may be on other regions, and participate for $100.
 
 ## Invitationals (Virtual)
 One benefit of invitationals is exposing teams to how CCDC events are run. Another is testing connectivity for the virtual qualifying event. However, the primary benefit is the experience developed from the team work, the challenges and honing the skills to be successful in cyber security.
