@@ -9,7 +9,7 @@ echo -e "\033[0;32mCompiling site...\033[0m"
 echo "-------------------------------"
 hugo -t ananke # if using a theme, replace with `hugo -t <YOURTHEME>` # this creates the "public" folder which is the final website.
 
-cd public && cp -a . $REPO
+cd public && cp -r . $REPO
 
 # cp -r public [compiled hugo website.io repo location]
 # Replace the location above to where ever you locally cloned the second repo to.
