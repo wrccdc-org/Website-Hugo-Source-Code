@@ -69,3 +69,9 @@ enableRobotsTXT = true
       endLevel = 3
       ordered = false
       startLevel = 2
+
+[[menu.main]]
+name = "Store"
+weight = 0
+identifier = "Store"
+url = "https://the-pier-at-coastline-college.myshopify.com/collections/WRCCDC-collection"
