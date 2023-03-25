@@ -26,9 +26,10 @@ git push origin master
 echo "-------------------------------"
 
 echo "-------------------------------"
-echo "Pushing latest source code up to Github."
+echo -e "\033[0;32mPushing latest source code up to Github....\033[0m"
+echo "-------------------------------"
 cd $SOURCEREPO
 git add *
-git commit -m "Pushing latest changes."
+git commit -m "Updated website source code."
 git push origin master
 echo "-------------------------------"
