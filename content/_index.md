@@ -29,13 +29,12 @@ Finalists going on to the 2023 Western Regionals:
 <a href="https://www.coastline.edu/">{{< figure src="/images/2021/Teams/Coastline_College.png" class="w-third center" >}}</a><b>Coastline College</b><br>
 
 <br>
-<a href="https://www.csun.edu/">{{< figure src="/images/2021/Teams/csun-logo.png" class="w-third center" >}}</a><b>California State University, Northridge (CSUN)</b><br>
+<a href="https://www.csun.edu/">{{< figure src="/images/Schools/csun-logo.png" class="w-third center" >}}</a><b>California State University, Northridge (CSUN)</b><br>
+
+<a href="https://www.gcu.edu/">{{< figure src="/images/Schools/GCU-logo.png" class="w-third center" >}}</a><b>Grand Canyon University (GCU)</b><br>
 
 <br>
-<a href="https://www.gcu.edu/">{{< figure src="/images/2021/Teams/GCU-logo.png" class="w-third center" >}}</a><b>Grand Canyon University (GCU)</b><br>
-
-<br>
-<a href="https://www.sdsu.edu/">{{< figure src="/images/2021/Teams/sdsu-logo.png" class="w-third center" >}}</a><b>San Diego State University (SDSU)</b><br>
+<a href="https://www.sdsu.edu/">{{< figure src="/images/Schools/sdsu-logo.png" class="w-third center" >}}</a><b>San Diego State University (SDSU)</b><br>
 
 <br>
 <a href="https://www.saddleback.edu/">{{< figure src="/images/2021/Teams/saddleback-logo-2.png" class="w-third center" >}}</a><b>Saddleback College</b><br>

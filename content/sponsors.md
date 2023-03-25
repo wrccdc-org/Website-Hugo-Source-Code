@@ -27,8 +27,9 @@ We would like to take the time to thank all of our sponsors for their support. W
 
 <a href="https://www.battelle.org/">{{< figure src="/images/2020Sponsors/Battelle.png" class="" >}}</a>
 <a href="https://www.bankofamerica.com/">{{< figure src="/images/Sponsors/Bank-of-America-Logo.png" class="" >}}</a>
-<a href="https://www.crowdstrike.com/">{{< figure src="/images/2020Sponsors/crowdstrike-logo.png" class="" >}}</a>
+<a href="https://www.netacad.com/">{{< figure src="/images/Sponsors/Cisco-Netacad-Logo.png" class="" >}}</a>
+<a href="https://www.convergeone.com/">{{< figure src="/images/Sponsors/convergeone-logo.webp" class="" >}}</a>
+<a href="https://www.crowdstrike.com/">{{< figure src="/images/Sponsors/crowdstrike-logo.png" class="" >}}</a><br><br>
 <a href="https://www.fortra.com/">{{< figure src="/images/Sponsors/Fortra-Logo.png" class="" >}}</a>
 <a href="https://isacala.org/">{{< figure src="/images/2020Sponsors/ISACA_logo_LosAngeles_RGB.png" class="" >}}</a>
-<a href="https://www.netacad.com/">{{< figure src="/images/Sponsors/Cisco-Netacad-Logo.png" class="" >}}</a>
-<a href="https://www.paloaltonetworks.com/">{{< figure src="/images/2020Sponsors/PaloAltoNetworks.png" class="" >}}</a>
+<a href="https://www.paloaltonetworks.com/">{{< figure src="/images/Sponsors/paloalto-logo-new.png" class="" >}}</a>
