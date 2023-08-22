@@ -14,9 +14,10 @@ Sign up by email: <info@WRCCDC.org>
 Want to learn more about the current season or a previous one? Click on the Season links below!
 
 <div class="ph3 mt4">
-  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2023/">2023</a>
-  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2022/">2022</a>
-  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2021/">2021</a>
+  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2024/">2023-2024</a>
+  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2023/">2022-2023</a>
+  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2022/">2021-2022</a>
+  <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2021/">2020-2021</a>
   <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2020/">2020</a>
   <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2019/">2019</a>
   <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="2018/">2018</a>
