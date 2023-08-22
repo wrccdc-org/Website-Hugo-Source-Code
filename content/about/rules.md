@@ -6,7 +6,7 @@ toc: true
 ---
 <hr>
 
-The following are the approved national rules for the 2023-2024 there are minor differences between this and other regions. Contact <organizers@wrccdc.org> if you have questions. <!--more--> 
+The following are the approved national rules for the 2023-2024 WRCCDC season. Please refer to the official rules for your specific CCDC event for any local variations. WRCCDC largely follows National CCDC rules, however, there are minor differences between this and other regions. Contact <organizers@wrccdc.org> if you have questions. <!--more--> 
 
 Click on the table of contents to the right to quickly jump to another section.
 
