@@ -15,12 +15,13 @@ Invitational #2 - Saturday, Dec. 2nd, 2023 (9:00 a.m. – 4:00 p.m.)
 Qualifier Saturday, February 17th, 2024 (9:00 a.m. – 4:00 p.m.) 
 
 **2024 Regional Final**
-Day 1: Friday, March 29th, 2024 (9:00 a.m. – 5:00 p.m.)
-Day 2: Saturday, March 30th, 2024 (9:00 a.m. – 5:00 p.m.) 
-Day 3: Awards Ceremony – Sunday March 31st, 2024 (11:00 a.m. – 1:00 p.m.) 
-WRCCDC Recruiting Event Friday, March 29th, 2024 (6:00 p.m. – 9:00 p.m.) 
+Day 1: Friday, April 5th, 2024 (9:00 a.m. – 5:00 p.m.)
+  WRCCDC Recruiting Event: Friday, April 5th, 2024 (6:00 p.m. – 9:00 p.m.) 
 
-Teams participating in the WRCCDC 2023 Qualifier get free admission into the invitationals, and 2024 qualifier. Teams not participating in the WRCCDC 2023 Qualifier can sign up for the Invitationals at the following rates:
+Day 2: Saturday, April 6th, 2024 (9:00 a.m. – 5:00 p.m.) 
+Day 3: Awards Ceremony – Sunday, April 7th, 2024 (11:00 a.m. – 1:00 p.m.) 
+
+Teams participating in the WRCCDC 2023 Qualifier get free admission into the invitationals, and the 2024 qualifier. Teams not participating in the WRCCDC 2023 Qualifier can sign up for the Invitationals at the following rates:
 
 Qualifier #1 - **$150**
 Qualifier #2 - **$150** 
